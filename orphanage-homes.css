@@ -1,0 +1,3546 @@
+.orphanage-homes-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.orphanage-homes-orphanage-homes {
+  width: 100%;
+  height: 3367px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.orphanage-homes-navbar {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 120px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.orphanage-homes-frame3 {
+  top: 45px;
+  left: 100px;
+  width: 795px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-frame82 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 100px;
+}
+.orphanage-homes-group5 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 5px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-group {
+  top: 15.602312088012695px;
+  left: 10.161625862121582px;
+  width: 9.676667213439941px;
+  height: 14.397687911987305px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 14px;
+  position: absolute;
+}
+.orphanage-homes-group1 {
+  top: 0px;
+  left: 10.161625862121582px;
+  width: 9.676667213439941px;
+  height: 14.332066535949707px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector01 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 14px;
+  position: absolute;
+}
+.orphanage-homes-group2 {
+  top: 10.1611909866333px;
+  left: 0px;
+  width: 30px;
+  height: 9.676839828491211px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector02 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 10px;
+  position: absolute;
+}
+.orphanage-homes-frame81 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-text {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Recoleta;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 2px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.orphanage-homes-text002 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Recoleta;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.orphanage-homes-frame2 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.orphanage-homes-text004 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 40px;
+  margin-bottom: 0;
+}
+.orphanage-homes-text006 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 40px;
+  margin-bottom: 0;
+}
+.orphanage-homes-text008 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 40px;
+  margin-bottom: 0;
+}
+.orphanage-homes-text010 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 40px;
+  margin-bottom: 0;
+}
+.orphanage-homes-text012 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame4 {
+  top: 40px;
+  left: 1198px;
+  width: 142px;
+  height: 56px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-main-primary);
+}
+.orphanage-homes-frame41 {
+  height: 56px;
+  display: flex;
+  padding: 15px 20px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-main-primary);
+}
+.orphanage-homes-text014 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame42 {
+  top: 2517.8232421875px;
+  left: 0px;
+  width: 1440px;
+  height: 452px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.orphanage-homes-frame44 {
+  top: 100.0009765625px;
+  left: 295px;
+  width: 850px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.orphanage-homes-text016 {
+  color: rgba(0, 0, 0, 1);
+  width: 850px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 50px;
+}
+.orphanage-homes-frame42 {
+  width: 277px;
+  height: 56px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-main-primary);
+}
+.orphanage-homes-frame43 {
+  height: 56px;
+  display: flex;
+  padding: 15px 20px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-main-primary);
+}
+.orphanage-homes-text018 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame88 {
+  top: 3070px;
+  left: 0px;
+  width: 1440px;
+  height: 297px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: var(--dl-color-text-slightlydark);
+}
+.orphanage-homes-frame63 {
+  top: 85px;
+  left: 100px;
+  width: 277px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.orphanage-homes-frame821 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 50px;
+}
+.orphanage-homes-group51 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 5px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-group3 {
+  top: 15.602312088012695px;
+  left: 10.161625862121582px;
+  width: 9.676667213439941px;
+  height: 14.397687911987305px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector03 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 14px;
+  position: absolute;
+}
+.orphanage-homes-group4 {
+  top: 0px;
+  left: 10.161625862121582px;
+  width: 9.676667213439941px;
+  height: 14.332066535949707px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector04 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 14px;
+  position: absolute;
+}
+.orphanage-homes-group5 {
+  top: 10.1611909866333px;
+  left: 0px;
+  width: 30px;
+  height: 9.676839828491211px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector05 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 10px;
+  position: absolute;
+}
+.orphanage-homes-frame811 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-text020 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Recoleta;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 2px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.orphanage-homes-text022 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Recoleta;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.orphanage-homes-frame44 {
+  width: 277px;
+  height: 56px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-main-primary);
+}
+.orphanage-homes-frame45 {
+  height: 56px;
+  display: flex;
+  padding: 15px 20px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-main-primary);
+}
+.orphanage-homes-text024 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame51 {
+  top: 56px;
+  left: 570px;
+  width: 749px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.orphanage-homes-frame50 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.orphanage-homes-frame21 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 150px;
+  flex-direction: column;
+}
+.orphanage-homes-text026 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.orphanage-homes-frame45 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.orphanage-homes-text028 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.orphanage-homes-text030 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.orphanage-homes-text032 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.orphanage-homes-text034 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame31 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 150px;
+  flex-direction: column;
+}
+.orphanage-homes-text036 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.orphanage-homes-frame451 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.orphanage-homes-frame47 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 10px;
+}
+.orphanage-homes-call {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.orphanage-homes-vuesaxoutlinecall {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-call1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector06 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.orphanage-homes-text038 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame46 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 10px;
+}
+.orphanage-homes-instagram {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.orphanage-homes-vuesaxoutlineinstagram {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-instagram1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector07 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.orphanage-homes-vector08 {
+  top: 7.75px;
+  left: 7.75px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.orphanage-homes-vector09 {
+  top: 5.499119281768799px;
+  left: 16px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.orphanage-homes-text040 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame48 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 10px;
+}
+.orphanage-homes-facebook {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.orphanage-homes-vuesaxoutlinefacebook {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-facebook1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector10 {
+  top: 5.25px;
+  left: 8.25px;
+  width: 9px;
+  height: 17px;
+  position: absolute;
+}
+.orphanage-homes-vector11 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.orphanage-homes-text042 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame49 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.orphanage-homes-sms {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.orphanage-homes-vuesaxoutlinesms {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-sms1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector12 {
+  top: 2.75px;
+  left: 1.25px;
+  width: 21px;
+  height: 18px;
+  position: absolute;
+}
+.orphanage-homes-vector13 {
+  top: 8.244140625px;
+  left: 6.2470703125px;
+  width: 11px;
+  height: 5px;
+  position: absolute;
+}
+.orphanage-homes-text044 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame46 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.orphanage-homes-text046 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.orphanage-homes-frame452 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.orphanage-homes-text048 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.orphanage-homes-text050 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.orphanage-homes-text052 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.orphanage-homes-text054 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame83 {
+  top: 190px;
+  left: 325px;
+  width: 790px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.orphanage-homes-text056 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.orphanage-homes-text058 {
+  color: var(--dl-color-text-dark);
+  width: 790px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame6 {
+  top: 396px;
+  left: 358px;
+  width: 725px;
+  display: flex;
+  padding: 16px 20px;
+  position: absolute;
+  align-items: center;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.orphanage-homes-frame8 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 100px;
+}
+.orphanage-homes-evasearchoutline {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 10px;
+}
+.orphanage-homes-text060 {
+  color: var(--dl-color-default-darkgrey);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.orphanage-homes-frame11 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 100px;
+}
+.orphanage-homes-rectangle1 {
+  width: 1px;
+  height: 58px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 50px;
+}
+.orphanage-homes-frame10 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-frame7 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-akariconslocation {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.orphanage-homes-group6 {
+  top: 2px;
+  left: 4px;
+  width: 16px;
+  height: 20px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector14 {
+  top: 5px;
+  left: 5px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.orphanage-homes-vector15 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 20px;
+  position: absolute;
+}
+.orphanage-homes-text062 {
+  color: var(--dl-color-default-darkgrey);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 10px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.orphanage-homes-charmchevrondown {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.orphanage-homes-frame47 {
+  width: 108px;
+  display: flex;
+  padding: 15px 20px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-main-primary);
+}
+.orphanage-homes-text064 {
+  color: var(--dl-color-default-braandwhite);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.orphanage-homes-frame87 {
+  top: 590px;
+  left: 100px;
+  width: 1240px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.orphanage-homes-frame86 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 100px;
+  flex-direction: column;
+}
+.orphanage-homes-frame37 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 40px;
+}
+.orphanage-homes-frame34 {
+  width: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.orphanage-homes-rectangle10 {
+  width: auto;
+  height: 227px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.orphanage-homes-frame30 {
+  width: 400px;
+  display: flex;
+  padding: 20px 0 20px 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.orphanage-homes-frame33 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.orphanage-homes-frame32 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 15px;
+  flex-direction: column;
+}
+.orphanage-homes-text066 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.orphanage-homes-text068 {
+  color: var(--dl-color-text-dark);
+  width: 348px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame31 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-location {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.orphanage-homes-vuesaxoutlinelocation {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-location01 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector16 {
+  top: 6.440000057220459px;
+  left: 8.130000114440918px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.orphanage-homes-vector17 {
+  top: 1.25px;
+  left: 2.623358964920044px;
+  width: 19px;
+  height: 22px;
+  position: absolute;
+}
+.orphanage-homes-text070 {
+  color: var(--dl-color-text-dark);
+  width: 308px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame15 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-text072 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.orphanage-homes-arrowright {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.orphanage-homes-vuesaxoutlinearrowright {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-arrowright01 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector18 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.orphanage-homes-vector19 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.orphanage-homes-frame35 {
+  width: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.orphanage-homes-rectangle101 {
+  width: auto;
+  height: 227px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.orphanage-homes-frame301 {
+  width: 400px;
+  display: flex;
+  padding: 20px 0 20px 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.orphanage-homes-frame331 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.orphanage-homes-frame321 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 15px;
+  flex-direction: column;
+}
+.orphanage-homes-text074 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.orphanage-homes-text076 {
+  color: var(--dl-color-text-dark);
+  width: 348px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame311 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-location02 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.orphanage-homes-vuesaxoutlinelocation1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-location03 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector20 {
+  top: 6.440000057220459px;
+  left: 8.130000114440918px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.orphanage-homes-vector21 {
+  top: 1.25px;
+  left: 2.623358964920044px;
+  width: 19px;
+  height: 22px;
+  position: absolute;
+}
+.orphanage-homes-text078 {
+  color: var(--dl-color-text-dark);
+  width: 308px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame151 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-text080 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.orphanage-homes-arrowright02 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.orphanage-homes-vuesaxoutlinearrowright1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-arrowright03 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector22 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.orphanage-homes-vector23 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.orphanage-homes-frame36 {
+  width: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.orphanage-homes-rectangle102 {
+  width: auto;
+  height: 227px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.orphanage-homes-frame302 {
+  width: 400px;
+  display: flex;
+  padding: 20px 0 20px 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.orphanage-homes-frame332 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.orphanage-homes-frame322 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 15px;
+  flex-direction: column;
+}
+.orphanage-homes-text082 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.orphanage-homes-text084 {
+  color: var(--dl-color-text-dark);
+  width: 348px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame312 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-location04 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.orphanage-homes-vuesaxoutlinelocation2 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-location05 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector24 {
+  top: 6.440000057220459px;
+  left: 8.130000114440918px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.orphanage-homes-vector25 {
+  top: 1.25px;
+  left: 2.623358964920044px;
+  width: 19px;
+  height: 22px;
+  position: absolute;
+}
+.orphanage-homes-text086 {
+  color: var(--dl-color-text-dark);
+  width: 308px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame152 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-text088 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.orphanage-homes-arrowright04 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.orphanage-homes-vuesaxoutlinearrowright2 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-arrowright05 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector26 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.orphanage-homes-vector27 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.orphanage-homes-frame84 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 40px;
+}
+.orphanage-homes-frame341 {
+  width: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.orphanage-homes-rectangle103 {
+  width: auto;
+  height: 227px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.orphanage-homes-frame303 {
+  width: 400px;
+  display: flex;
+  padding: 20px 0 20px 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.orphanage-homes-frame333 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.orphanage-homes-frame323 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 15px;
+  flex-direction: column;
+}
+.orphanage-homes-text090 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.orphanage-homes-text092 {
+  color: var(--dl-color-text-dark);
+  width: 348px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame313 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-location06 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.orphanage-homes-vuesaxoutlinelocation3 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-location07 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector28 {
+  top: 6.440000057220459px;
+  left: 8.130000114440918px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.orphanage-homes-vector29 {
+  top: 1.25px;
+  left: 2.623358964920044px;
+  width: 19px;
+  height: 22px;
+  position: absolute;
+}
+.orphanage-homes-text094 {
+  color: var(--dl-color-text-dark);
+  width: 308px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame153 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-text096 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.orphanage-homes-arrowright06 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.orphanage-homes-vuesaxoutlinearrowright3 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-arrowright07 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector30 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.orphanage-homes-vector31 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.orphanage-homes-frame351 {
+  width: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.orphanage-homes-rectangle104 {
+  width: auto;
+  height: 227px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.orphanage-homes-frame304 {
+  width: 400px;
+  display: flex;
+  padding: 20px 0 20px 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.orphanage-homes-frame334 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.orphanage-homes-frame324 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 15px;
+  flex-direction: column;
+}
+.orphanage-homes-text098 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.orphanage-homes-text100 {
+  color: var(--dl-color-text-dark);
+  width: 348px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame314 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-location08 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.orphanage-homes-vuesaxoutlinelocation4 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-location09 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector32 {
+  top: 6.440000057220459px;
+  left: 8.130000114440918px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.orphanage-homes-vector33 {
+  top: 1.25px;
+  left: 2.623358964920044px;
+  width: 19px;
+  height: 22px;
+  position: absolute;
+}
+.orphanage-homes-text102 {
+  color: var(--dl-color-text-dark);
+  width: 308px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame154 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-text104 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.orphanage-homes-arrowright08 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.orphanage-homes-vuesaxoutlinearrowright4 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-arrowright09 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector34 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.orphanage-homes-vector35 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.orphanage-homes-frame361 {
+  width: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.orphanage-homes-rectangle105 {
+  width: auto;
+  height: 227px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.orphanage-homes-frame305 {
+  width: 400px;
+  display: flex;
+  padding: 20px 0 20px 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.orphanage-homes-frame335 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.orphanage-homes-frame325 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 15px;
+  flex-direction: column;
+}
+.orphanage-homes-text106 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.orphanage-homes-text108 {
+  color: var(--dl-color-text-dark);
+  width: 348px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame315 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-location10 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.orphanage-homes-vuesaxoutlinelocation5 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-location11 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector36 {
+  top: 6.440000057220459px;
+  left: 8.130000114440918px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.orphanage-homes-vector37 {
+  top: 1.25px;
+  left: 2.623358964920044px;
+  width: 19px;
+  height: 22px;
+  position: absolute;
+}
+.orphanage-homes-text110 {
+  color: var(--dl-color-text-dark);
+  width: 308px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame155 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-text112 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.orphanage-homes-arrowright10 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.orphanage-homes-vuesaxoutlinearrowright5 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-arrowright11 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector38 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.orphanage-homes-vector39 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.orphanage-homes-frame85 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-frame342 {
+  width: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.orphanage-homes-rectangle106 {
+  width: auto;
+  height: 227px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.orphanage-homes-frame306 {
+  width: 400px;
+  display: flex;
+  padding: 20px 0 20px 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.orphanage-homes-frame336 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.orphanage-homes-frame326 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 15px;
+  flex-direction: column;
+}
+.orphanage-homes-text114 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.orphanage-homes-text116 {
+  color: var(--dl-color-text-dark);
+  width: 348px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame316 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-location12 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.orphanage-homes-vuesaxoutlinelocation6 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-location13 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector40 {
+  top: 6.440000057220459px;
+  left: 8.130000114440918px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.orphanage-homes-vector41 {
+  top: 1.25px;
+  left: 2.623358964920044px;
+  width: 19px;
+  height: 22px;
+  position: absolute;
+}
+.orphanage-homes-text118 {
+  color: var(--dl-color-text-dark);
+  width: 308px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame156 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-text120 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.orphanage-homes-arrowright12 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.orphanage-homes-vuesaxoutlinearrowright6 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-arrowright13 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector42 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.orphanage-homes-vector43 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.orphanage-homes-frame352 {
+  width: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.orphanage-homes-rectangle107 {
+  width: auto;
+  height: 227px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.orphanage-homes-frame307 {
+  width: 400px;
+  display: flex;
+  padding: 20px 0 20px 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.orphanage-homes-frame337 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.orphanage-homes-frame327 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 15px;
+  flex-direction: column;
+}
+.orphanage-homes-text122 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.orphanage-homes-text124 {
+  color: var(--dl-color-text-dark);
+  width: 348px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame317 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-location14 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.orphanage-homes-vuesaxoutlinelocation7 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-location15 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector44 {
+  top: 6.440000057220459px;
+  left: 8.130000114440918px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.orphanage-homes-vector45 {
+  top: 1.25px;
+  left: 2.623358964920044px;
+  width: 19px;
+  height: 22px;
+  position: absolute;
+}
+.orphanage-homes-text126 {
+  color: var(--dl-color-text-dark);
+  width: 308px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame157 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-text128 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.orphanage-homes-arrowright14 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.orphanage-homes-vuesaxoutlinearrowright7 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-arrowright15 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector46 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.orphanage-homes-vector47 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.orphanage-homes-frame362 {
+  width: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.orphanage-homes-rectangle108 {
+  width: auto;
+  height: 227px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.orphanage-homes-frame308 {
+  width: 400px;
+  display: flex;
+  padding: 20px 0 20px 30px;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.orphanage-homes-frame338 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.orphanage-homes-frame328 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 15px;
+  flex-direction: column;
+}
+.orphanage-homes-text130 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.orphanage-homes-text132 {
+  color: var(--dl-color-text-dark);
+  width: 348px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame318 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-location16 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.orphanage-homes-vuesaxoutlinelocation8 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-location17 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector48 {
+  top: 6.440000057220459px;
+  left: 8.130000114440918px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.orphanage-homes-vector49 {
+  top: 1.25px;
+  left: 2.623358964920044px;
+  width: 19px;
+  height: 22px;
+  position: absolute;
+}
+.orphanage-homes-text134 {
+  color: var(--dl-color-text-dark);
+  width: 308px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.orphanage-homes-frame158 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.orphanage-homes-text136 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.orphanage-homes-arrowright16 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.orphanage-homes-vuesaxoutlinearrowright8 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-arrowright17 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.orphanage-homes-vector50 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.orphanage-homes-vector51 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.orphanage-homes-pagination {
+  display: flex;
+  padding: 10px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.orphanage-homes-square {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 20px;
+  border-radius: 6px;
+}
+.orphanage-homes-text138 {
+  top: 21px;
+  left: 1px;
+  color: var(--dl-color-text-dark);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.orphanage-homes-square1 {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(15, 130, 237, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 20px;
+  border-radius: 6px;
+  background-color: var(--dl-color-main-primary);
+}
+.orphanage-homes-text140 {
+  top: 21px;
+  left: 1px;
+  color: var(--dl-color-gray-white);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.orphanage-homes-square2 {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(187, 187, 187, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 20px;
+  border-radius: 6px;
+}
+.orphanage-homes-text141 {
+  top: 21px;
+  left: 1px;
+  color: var(--dl-color-default-darkgrey);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.orphanage-homes-square3 {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(187, 187, 187, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 20px;
+  border-radius: 6px;
+}
+.orphanage-homes-text142 {
+  top: 21px;
+  left: 1px;
+  color: var(--dl-color-default-darkgrey);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.orphanage-homes-square4 {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(187, 187, 187, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 20px;
+  border-radius: 6px;
+}
+.orphanage-homes-text143 {
+  top: 21px;
+  left: 1px;
+  color: var(--dl-color-default-darkgrey);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.orphanage-homes-square5 {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(187, 187, 187, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 20px;
+  border-radius: 6px;
+}
+.orphanage-homes-text144 {
+  top: 21px;
+  left: 1px;
+  color: var(--dl-color-default-darkgrey);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.orphanage-homes-square6 {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 6px;
+}
+.orphanage-homes-text145 {
+  top: 21px;
+  left: 1px;
+  color: var(--dl-color-main-primary);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

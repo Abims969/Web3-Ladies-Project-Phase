@@ -1,0 +1,6094 @@
+.skills-training-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.skills-training-skills-training {
+  width: 100%;
+  height: 3618px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.skills-training-navbar {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 120px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.skills-training-frame3 {
+  top: 45px;
+  left: 100px;
+  width: 796px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-frame82 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 100px;
+}
+.skills-training-group5 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 5px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-group {
+  top: 15.602312088012695px;
+  left: 10.161625862121582px;
+  width: 9.676667213439941px;
+  height: 14.397687911987305px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-group1 {
+  top: 0px;
+  left: 10.161625862121582px;
+  width: 9.676667213439941px;
+  height: 14.332066535949707px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector001 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-group2 {
+  top: 10.1611909866333px;
+  left: 0px;
+  width: 30px;
+  height: 9.676839828491211px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector002 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 10px;
+  position: absolute;
+}
+.skills-training-frame81 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Recoleta;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 2px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.skills-training-text002 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Recoleta;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.skills-training-frame2 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-text004 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 40px;
+  margin-bottom: 0;
+}
+.skills-training-text006 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 40px;
+  margin-bottom: 0;
+}
+.skills-training-text008 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 40px;
+  margin-bottom: 0;
+}
+.skills-training-text010 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 40px;
+  margin-bottom: 0;
+}
+.skills-training-text012 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame4 {
+  top: 40px;
+  left: 1198px;
+  width: 142px;
+  height: 56px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-main-primary);
+}
+.skills-training-frame41 {
+  height: 56px;
+  display: flex;
+  padding: 15px 20px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-main-primary);
+}
+.skills-training-text014 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame42 {
+  top: 2768.7646484375px;
+  left: 0px;
+  width: 1440px;
+  height: 452px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-frame44 {
+  top: 100.0009765625px;
+  left: 295px;
+  width: 850px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.skills-training-text016 {
+  color: rgba(0, 0, 0, 1);
+  width: 850px;
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 50px;
+}
+.skills-training-frame42 {
+  width: 277px;
+  height: 56px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-main-primary);
+}
+.skills-training-frame43 {
+  height: 56px;
+  display: flex;
+  padding: 15px 20px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-main-primary);
+}
+.skills-training-text018 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame811 {
+  top: 3321px;
+  left: 0px;
+  width: 1440px;
+  height: 297px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: var(--dl-color-text-slightlydark);
+}
+.skills-training-frame63 {
+  top: 85px;
+  left: 100px;
+  width: 277px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.skills-training-frame821 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 50px;
+}
+.skills-training-group51 {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 5px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-group3 {
+  top: 15.602312088012695px;
+  left: 10.161625862121582px;
+  width: 9.676667213439941px;
+  height: 14.397687911987305px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector003 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-group4 {
+  top: 0px;
+  left: 10.161625862121582px;
+  width: 9.676667213439941px;
+  height: 14.332066535949707px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector004 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-group5 {
+  top: 10.1611909866333px;
+  left: 0px;
+  width: 30px;
+  height: 9.676839828491211px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector005 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 10px;
+  position: absolute;
+}
+.skills-training-frame812 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text020 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Recoleta;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 2px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.skills-training-text022 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Recoleta;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.skills-training-frame44 {
+  width: 277px;
+  height: 56px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-main-primary);
+}
+.skills-training-frame45 {
+  height: 56px;
+  display: flex;
+  padding: 15px 20px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-main-primary);
+}
+.skills-training-text024 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame51 {
+  top: 56px;
+  left: 570px;
+  width: 749px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.skills-training-frame50 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame21 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 150px;
+  flex-direction: column;
+}
+.skills-training-text026 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.skills-training-frame45 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.skills-training-text028 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.skills-training-text030 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.skills-training-text032 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.skills-training-text034 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame31 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 150px;
+  flex-direction: column;
+}
+.skills-training-text036 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.skills-training-frame451 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.skills-training-frame47 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 10px;
+}
+.skills-training-call {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.skills-training-vuesaxoutlinecall {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-call1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector006 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-text038 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame46 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 10px;
+}
+.skills-training-instagram {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.skills-training-vuesaxoutlineinstagram {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-instagram1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector007 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector008 {
+  top: 7.75px;
+  left: 7.75px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.skills-training-vector009 {
+  top: 5.499119281768799px;
+  left: 16px;
+  width: 2px;
+  height: 2px;
+  position: absolute;
+}
+.skills-training-text040 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame48 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 10px;
+}
+.skills-training-facebook {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.skills-training-vuesaxoutlinefacebook {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-facebook1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector010 {
+  top: 5.25px;
+  left: 8.25px;
+  width: 9px;
+  height: 17px;
+  position: absolute;
+}
+.skills-training-vector011 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-text042 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame49 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-sms {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 10px;
+}
+.skills-training-vuesaxoutlinesms {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-sms1 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector012 {
+  top: 2.75px;
+  left: 1.25px;
+  width: 21px;
+  height: 18px;
+  position: absolute;
+}
+.skills-training-vector013 {
+  top: 8.244140625px;
+  left: 6.2470703125px;
+  width: 11px;
+  height: 5px;
+  position: absolute;
+}
+.skills-training-text044 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame46 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.skills-training-text046 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.skills-training-frame452 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.skills-training-text048 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.skills-training-text050 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.skills-training-text052 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.skills-training-text054 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-herosection {
+  top: 120px;
+  left: 0px;
+  width: 1440px;
+  height: 644px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.skills-training-frame8 {
+  top: 100px;
+  left: 100px;
+  width: 1177px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-frame1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 93px;
+  flex-direction: column;
+}
+.skills-training-frame71 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 50px;
+  flex-direction: column;
+}
+.skills-training-text056 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.skills-training-text058 {
+  color: var(--dl-color-text-dark);
+  width: 519px;
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame47 {
+  width: 215px;
+  height: 56px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-main-primary);
+}
+.skills-training-frame48 {
+  height: 56px;
+  display: flex;
+  padding: 15px 20px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: var(--dl-color-main-primary);
+}
+.skills-training-text060 {
+  color: var(--dl-color-gray-white);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-rectangle5 {
+  width: 530px;
+  height: 444px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.skills-training-frame16 {
+  top: 850px;
+  left: 462px;
+  width: 516px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.skills-training-text062 {
+  color: var(--dl-color-default-bluelight);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+.skills-training-text064 {
+  color: var(--dl-color-text-dark);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame80 {
+  top: 1051px;
+  left: 100px;
+  width: 1240px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.skills-training-frame77 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 50px;
+}
+.skills-training-frame73 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.skills-training-rectangle11 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame72 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame75 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text066 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame76 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame74 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock01 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector014 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector015 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text068 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7501 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare01 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector016 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector017 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector018 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text070 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame15 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text072 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright01 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector019 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector020 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.skills-training-frame7401 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.skills-training-rectangle1101 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame7201 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame7502 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text074 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame7601 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame7402 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock02 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock01 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock03 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector021 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector022 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text076 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7503 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare02 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare01 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare03 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector023 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector024 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector025 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text078 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame1501 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text080 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright02 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright01 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright03 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector026 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector027 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.skills-training-frame7504 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.skills-training-rectangle1102 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame7202 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame7505 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text082 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame7602 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame7403 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock04 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock02 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock05 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector028 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector029 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text084 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7506 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare04 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare02 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare05 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector030 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector031 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector032 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text086 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame1502 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text088 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright04 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright02 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright05 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector033 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector034 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.skills-training-frame7603 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.skills-training-rectangle1103 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame7203 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame7507 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text090 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame7604 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame7404 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock06 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock03 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock07 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector035 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector036 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text092 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7508 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare06 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare03 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare07 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector037 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector038 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector039 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text094 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame1503 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text096 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright06 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright03 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright07 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector040 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector041 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.skills-training-frame78 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 50px;
+}
+.skills-training-frame731 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.skills-training-rectangle1104 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame7204 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame7509 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text098 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame7605 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame7405 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock08 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock04 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock09 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector042 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector043 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text100 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7510 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare08 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare04 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare09 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector044 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector045 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector046 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text102 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame1504 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text104 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright08 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright04 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright09 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector047 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector048 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.skills-training-frame7406 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.skills-training-rectangle1105 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame7205 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame7511 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text106 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame7606 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame7407 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock10 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock05 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock11 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector049 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector050 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text108 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7512 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare10 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare05 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare11 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector051 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector052 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector053 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text110 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame1505 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text112 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright10 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright05 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright11 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector054 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector055 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.skills-training-frame7513 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.skills-training-rectangle1106 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame7206 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame7514 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text114 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame7607 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame7408 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock12 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock06 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock13 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector056 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector057 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text116 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7515 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare12 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare06 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare13 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector058 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector059 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector060 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text118 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame1506 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text120 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright12 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright06 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright13 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector061 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector062 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.skills-training-frame7608 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.skills-training-rectangle1107 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame7207 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame7516 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text122 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame7609 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame7409 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock14 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock07 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock15 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector063 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector064 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text124 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7517 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare14 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare07 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare15 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector065 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector066 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector067 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text126 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame1507 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text128 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright14 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright07 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright15 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector068 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector069 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.skills-training-frame79 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 50px;
+}
+.skills-training-frame732 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.skills-training-rectangle1108 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame7208 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame7518 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text130 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame7610 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame7410 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock16 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock08 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock17 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector070 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector071 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text132 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7519 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare16 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare08 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare17 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector072 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector073 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector074 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text134 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame1508 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text136 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright16 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright08 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright17 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector075 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector076 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.skills-training-frame7411 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.skills-training-rectangle1109 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame7209 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame7520 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text138 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame7611 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame7412 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock18 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock09 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock19 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector077 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector078 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text140 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7521 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare18 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare09 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare19 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector079 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector080 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector081 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text142 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame1509 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text144 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright18 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright09 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright19 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector082 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector083 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.skills-training-frame7522 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.skills-training-rectangle1110 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame7210 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame7523 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text146 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame7612 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame7413 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock20 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock10 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock21 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector084 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector085 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text148 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7524 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare20 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare10 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare21 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector086 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector087 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector088 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text150 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame1510 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text152 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright20 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright10 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright21 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector089 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector090 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.skills-training-frame7613 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.skills-training-rectangle1111 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame7211 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame7525 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text154 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame7614 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame7414 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock22 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock11 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock23 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector091 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector092 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text156 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7526 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare22 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare11 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare23 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector093 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector094 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector095 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text158 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame1511 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text160 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright22 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright11 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright23 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector096 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector097 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.skills-training-frame801 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame733 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.skills-training-rectangle1112 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame7212 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame7527 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text162 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame7615 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame7415 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock24 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock12 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock25 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector098 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector099 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text164 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7528 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare24 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare12 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare25 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector100 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector101 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector102 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text166 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame1512 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text168 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright24 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright12 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright25 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector103 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector104 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.skills-training-frame7416 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.skills-training-rectangle1113 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame7213 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame7529 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text170 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame7616 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame7417 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock26 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock13 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock27 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector105 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector106 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text172 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7530 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare26 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare13 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare27 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector107 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector108 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector109 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text174 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame1513 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text176 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright26 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright13 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright27 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector110 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector111 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.skills-training-frame7531 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 20px;
+  flex-direction: column;
+}
+.skills-training-rectangle1114 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame7214 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame7532 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text178 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame7617 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame7418 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock28 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock14 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock29 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector112 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector113 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text180 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7533 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare28 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare14 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare29 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector114 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector115 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector116 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text182 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame1514 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text184 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright28 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright14 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright29 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector117 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector118 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.skills-training-frame7618 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.skills-training-rectangle1115 {
+  width: 295px;
+  height: 184px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+.skills-training-frame7215 {
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 10px 10px;
+  flex-direction: column;
+}
+.skills-training-frame7534 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.skills-training-text186 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.skills-training-frame7619 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.skills-training-frame7419 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.skills-training-clock30 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineclock15 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-clock31 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector119 {
+  top: 1.25px;
+  left: 1.25px;
+  width: 21px;
+  height: 21px;
+  position: absolute;
+}
+.skills-training-vector120 {
+  top: 6.760000228881836px;
+  left: 10.890000343322754px;
+  width: 6px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text188 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame7535 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-usersquare30 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.skills-training-vuesaxoutlineusersquare15 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-usersquare31 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector121 {
+  top: 16.219970703125px;
+  left: 5.10888671875px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+}
+.skills-training-vector122 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.skills-training-vector123 {
+  top: 6.25px;
+  left: 7.669921875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.skills-training-text190 {
+  color: rgba(179, 179, 179, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 139.9999976158142%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.skills-training-frame1515 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.skills-training-text192 {
+  color: var(--dl-color-main-primary);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 3px;
+  margin-bottom: 0;
+}
+.skills-training-arrowright30 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.skills-training-vuesaxoutlinearrowright15 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-arrowright31 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.skills-training-vector124 {
+  top: 5.182499885559082px;
+  left: 13.682499885559082px;
+  width: 8px;
+  height: 14px;
+  position: absolute;
+}
+.skills-training-vector125 {
+  top: 11.25px;
+  left: 2.75px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
